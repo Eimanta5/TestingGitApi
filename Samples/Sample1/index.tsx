@@ -1,1 +1,0 @@
-var cdasd = "sample1 index";
