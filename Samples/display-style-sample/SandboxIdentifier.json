@@ -1,3 +1,6 @@
 {
-    "Name": "Display App"
+    "Name": "Sample from showcase",
+    "UserId": "e99e561f-9b91-4c59-ab59-777eca61021e",
+    "Description": "Description for new sandbox",
+    "EntryFile": "index.tsx"
 }
